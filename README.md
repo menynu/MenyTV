@@ -1,2 +1,0 @@
-# MenyTV
-myTV
